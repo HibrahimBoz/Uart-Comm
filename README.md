@@ -20,3 +20,9 @@ icerikle degistirmeniz gerekir.
 - `sendxBee()` icindeki ikinci veri kopyalama blogu, ilkiyle ayni kaynagi
   (`buff[0..3]`) kullanir; ikinci sensor/olcum icin tamamlanmamis bir
   yer tutucudur.
+
+## Anahtar Kelimeler
+
+`stm32` `stm32f7` `hal` `cubemx` `keil-uvision` `uart` `usart` `dma`
+`rs485` `half-duplex` `iec62056-21` `iec61107` `elektrik-sayaci`
+`meter-reading` `kohler` `xbee` `zigbee` `embedded-c` `gomulu-yazilim`
